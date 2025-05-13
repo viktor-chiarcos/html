@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Die Technikier Übertragung (https://github.com/viktor-chiarcos/viktor-chiarcos.github.io) [viktor-chiarcos.github.io]
+name: Die Technikier Absendung (Lone Wolf Theme) [viktor-chiarcos.github.io]
 
 on:
   # Runs on pushes targeting the default branch
